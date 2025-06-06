@@ -69,9 +69,9 @@ Here are some things you can say:
 ========================================
 📄 DEVELOPER
 ========================================
-👨‍💻 Developed by: Gaurav  
+👨‍💻 Developed by: Priyanshu Verma
 🎙️ Assistant Name: PV_Jarvis 1.0  
-✉️ Contact: [your_email@example.com] *(Replace with your contact info if needed)*
+✉️ Contact: priyansgood392@gmail.com
 
 Feel free to modify, expand, and experiment with the script to add more intelligent features!
 
